@@ -2,6 +2,8 @@ The API used was OpenWeatherMap.
 
 [Labtest2_Screenshots.pdf](https://github.com/user-attachments/files/23811439/Labtest2_Screenshots.pdf)
 
+Screenshots show GET request on Postman and the interface of the application showing the weather of a city.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
